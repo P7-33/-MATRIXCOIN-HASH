@@ -1,4 +1,4 @@
-# BROWSER-COIN-HASH
+# MATRIXCOIN-HASH
 Skip to content
 GitLab
 Projects
