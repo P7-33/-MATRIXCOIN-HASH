@@ -101,5 +101,6 @@ setuptools.setup(
     ],
 )
 # instructions
+https://github.com/P7-33/-MATRIXCOIN-HASH.wiki.git
 
 [Click here to see the wiki](https://github.com/pi-node/instructions/wiki)
