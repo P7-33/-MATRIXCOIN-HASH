@@ -3,7 +3,6 @@ Skip to content
 GitLab
 Projects
 MoreToggle navigation
-https://github.com/P7-33/MATRIX-PROTOCOL.COM.wiki.git
 flake8
 Project overview
 Repository
@@ -26,7 +25,6 @@ Operations
 Analytics
 Snippets
 Members
-
 Close sidebar
 Open sidebar
 PyCQA
@@ -101,6 +99,5 @@ setuptools.setup(
     ],
 )
 # instructions
-https://github.com/P7-33/-MATRIXCOIN-HASH.wiki.git
 
 [Click here to see the wiki](https://github.com/pi-node/instructions/wiki)
